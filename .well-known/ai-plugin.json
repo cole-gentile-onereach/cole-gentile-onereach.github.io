@@ -9,10 +9,10 @@
   },
   "api": {
     "type": "openapi",
-    "url": "https://cole-gentile-onereach.github.io/.well-known/openapi.yml",
+    "url": "https://cole-gentile-onereach.github.io/ymlFolder/openapi.yml",
     "is_user_authenticated": false
   },
-  "logo_url": "https://cole-gentile-onereach.github.io/.well-known/logo.png",
+  "logo_url": "https://cole-gentile-onereach.github.io/ymlFolder/logo.png",
   "contact_email": "cole.gentile@onereach.com",
   "legal_info_url": "https://onereach.ai/terms/"
 }
